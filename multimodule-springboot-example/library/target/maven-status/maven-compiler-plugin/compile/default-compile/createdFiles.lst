@@ -1,0 +1,3 @@
+org\elkin\multimodule\example\Config.class
+org\elkin\multimodule\example\HelloController.class
+org\elkin\multimodule\example\LibraryService.class
